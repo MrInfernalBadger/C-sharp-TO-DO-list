@@ -10,6 +10,7 @@ namespace TO_DO_List
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Todo list");
         }
     }
 }
